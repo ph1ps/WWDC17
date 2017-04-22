@@ -1,2 +1,3 @@
 # WWDC17
-My WWDC 2017 submission
+
+To view this .playground you have to enable the Assitant Editor in Xcode in order to show the UI.
